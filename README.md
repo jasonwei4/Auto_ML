@@ -1,2 +1,2 @@
 # Auto_ML
-Some Automl projects
+One Automl project (Auto-Gluon)
